@@ -1,0 +1,10 @@
+{
+    "id": "com.tibfib.app.koto",
+    "package_format_version": 2,
+    "loc_name": "Koto Player",
+    "version": "1.0.0",
+    "vendor": "Will Honey (Tibfib)",
+    "vendorurl": "",
+    "app": "com.tibfib.app.koto",
+    "services": [ "com.tibfib.app.koto.service" ]
+}
